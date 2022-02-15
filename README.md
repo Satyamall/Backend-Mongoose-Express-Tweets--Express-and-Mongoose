@@ -1,6 +1,6 @@
 # Backend-Mongoose-Express-Tweets--Express-and-Mongoose
 
-**Mongosh run firstly**
+**Mongosh run firstly to check the dbs and create dbs**
 ```js
   mongosh
 ```
