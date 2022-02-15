@@ -21,4 +21,4 @@ app.use(cors)
 
 CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 
-# app.use(express.json()) -> use for post request for json file.
+**app.use(express.json()) -> use for post request for json file.**
